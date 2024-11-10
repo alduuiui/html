@@ -1,0 +1,56 @@
+body{
+    background-image: url(../image/call-of-duty-modern-3840x2160-12629.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+
+.persone{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 75ch;
+    align-items: center;
+    border-radius: 5px;
+}
+
+
+
+.center{
+    border: 1px solid burlywood;
+    margin: 100px;
+    border-radius: 20px;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    border-radius: 20px;
+}
+
+.span{
+    margin-top: 500px;
+    padding: 1600px;
+    font-size: 20px;
+    color: white;
+}
+
+
+.span2{
+    margin-top: 500px;
+    padding: 1000px;
+    font-size: 20px;
+    color: white;
+}
+
+
+.span3{
+    margin-top: 500px;
+    padding: 350px;
+    font-size: 20px;
+    color: white;
+}
